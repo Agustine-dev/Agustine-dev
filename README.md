@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a technology enthusiast. I also create and support websites and applications for clients and for fun using modern cutting-edge technologies to create next generation applications with exceptional user experiences. I live through my interests in Basketball, music, keeping fit and travelling.
+I'm a technology enthusiast. My main hobby is creating and supporting website applications for clients and for fun using modern cutting-edge technologies to create next generation applications with exceptional user experiences. I live through my interests in Basketball, music, keeping fit and travelling.
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [nagustinenyaanga@gmail.com](mailto:nagustinenyaanga@gmail.com)
