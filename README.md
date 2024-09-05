@@ -18,6 +18,6 @@ Beyond coding, I enjoy staying active with basketball ğŸ€, diving into music ğŸ
 
 ![Agustine's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustine-dev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustine-dev&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustine-dev&hide_progress=true)
 
 [![GitHub Streak](https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app?user=agustine-dev&mode=weekly)](https://git.io/streak-stats)
