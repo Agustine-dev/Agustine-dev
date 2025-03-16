@@ -5,11 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## Software Developer | Full-Stack Web Engineer
 
-I'm a technology enthusiast with a passion for crafting high-performance web applications that deliver exceptional user experiences. I specialize in building scalable and intuitive applications for both clients and personal ventures. The ability to leverage modern, cutting-edge technologies has allowed my expertise span both front-end and back-end development, ensuring seamless functionality from concept to deployment.
+I'm a technology enthusiast with a passion for crafting high-performance web applications that deliver exceptional user experiences.
 
-* 🌍 Based in Kenya, open to global opportunities.
-* 💼 Actively seeking collaborations to bring innovative digital solutions to life.
-* 🛠️ Open to collaboration and building together.
+* 🌍 Based in Kenya.
 * 💪 Let's build something great together.
 
 Beyond coding, I enjoy staying active with basketball 🏀, diving into music 🎵, keeping fit 💪, and exploring new places through travel ✈️
@@ -18,6 +16,6 @@ Beyond coding, I enjoy staying active with basketball 🏀, diving into music �
 
 ![Agustine's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustine-dev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustine-dev&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustine-dev&hide_progress=false)
 
 [![GitHub Streak](https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app?user=agustine-dev&mode=weekly)](https://git.io/streak-stats)
